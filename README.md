@@ -21,7 +21,7 @@
 
 ### 📫 How to reach me
 - 💌 [Email](mailto:your-email@gmail.com)
-- 🔗 [LinkedIn]([https://linkedin.com/in/bhoomikamehra23](https://www.linkedin.com/in/bhoomika-mehra-a88516220/))
+- 🔗 [LinkedIn](https://linkedin.com/in/bhoomika-mehra-a88516220/)
 - 📝 [Portfolio Website](#)
 
 ---
