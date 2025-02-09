@@ -1,11 +1,12 @@
 # Hi there, I'm Bhoomika Mehra! 👋
+### A Passionate Software Developer & Competitive Programmer  
 
 ### 🚀 About Me
-- 🎓 B-Tech in Computer Science from GLA University, Mathura (Final Year).
-- 💻 Passionate about **Software Development, DSA, Web Development**, and **Machine Learning**.
-- 🔍 Exploring **AWS, CI/CD, and Cloud Computing**.
-- 🌱 Currently preparing for **Google Interviews** and actively participating in **Hackathons**.
-- 💡 Open to **collaborations on impactful open-source projects**.
+
+💻 **B-Tech CSE @ GLA University | SDE Intern @ Amazon**  
+🚀 **Exploring Machine Learning, Cloud Computing & DevOps**  
+🔥 **Actively solving DSA problems on LeetCode & CodeChef**  
+
 
 ### ⚡ Tech Stack
 - **Languages:** C++, Python, JavaScript
