@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Bhoomika Mehra! 👋
 
-<!--
-**BhoomikaMehra23/BhoomikaMehra23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+- 🎓 B-Tech in Computer Science from GLA University, Mathura (Final Year).
+- 💻 Passionate about **Software Development, DSA, Web Development**, and **Machine Learning**.
+- 🔍 Exploring **AWS, CI/CD, and Cloud Computing**.
+- 🌱 Currently preparing for **Google Interviews** and actively participating in **Hackathons**.
+- 💡 Open to **collaborations on impactful open-source projects**.
 
-Here are some ideas to get you started:
+### ⚡ Tech Stack
+- **Languages:** C++, Python, JavaScript
+- **Web Development:** React.js, Node.js, Express.js
+- **Databases:** MySQL, MongoDB
+- **Cloud & DevOps:** AWS, Docker, Kubernetes, CI/CD
+- **Machine Learning:** TensorFlow, Scikit-learn
+- **Version Control:** Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats
+![Bhoomika's GitHub stats](https://github-readme-stats.vercel.app/api?username=BhoomikaMehra23&show_icons=true&theme=radical)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BhoomikaMehra23&layout=compact&theme=radical)](https://github.com/BhoomikaMehra23)
+
+### 📫 How to reach me
+- 💌 [Email](mailto:bhumikam61@gmail.com)
+- 🔗 [LinkedIn](https://linkedin.com/in/bhoomikamehra23)
+
+---
+⭐ **Star** some repositories if you find them useful! Happy Coding! 🚀
