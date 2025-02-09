@@ -8,7 +8,7 @@
 - 💡 Open to **collaborations on impactful open-source projects**.
 
 ### ⚡ Tech Stack
-- **Languages:** C++, Python, JavaScript
+- **Languages:** Java, Python, JavaScript
 - **Web Development:** React.js, Node.js, Express.js
 - **Databases:** MySQL, MongoDB
 - **Cloud & DevOps:** AWS, Docker, Kubernetes, CI/CD
